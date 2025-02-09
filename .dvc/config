@@ -1,0 +1,4 @@
+[core]
+    remote = myremote-dvc
+['remote "myremote-dvc"']
+    url = ssh://vamsk@npci-sandbox.talentsprint.com:22/home/vamsk/dvc
